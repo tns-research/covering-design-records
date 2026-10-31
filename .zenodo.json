@@ -1,4 +1,17 @@
-{"title":"A (89,8,3) covering design with 2606 blocks",
- "upload_type":"dataset","creators":[{"name":"Sitjar, Théo Nicolas","orcid":"0009-0002-6728-0169","affiliation":"Independent researcher"}],
- "description":"<p>An explicit (89,8,3) covering design with 2606 blocks, covering all 113564 triples. The Covering Repository listed 2611 blocks on 31 October 2026, credited to Bluskov and Sidorenko. Obtained by post-optimisation of their design; includes the program and a verification script.</p>",
- "license":"cc-by-4.0","keywords":["covering designs","combinatorial designs"]}
+{
+ "title": "Covering design records: explicit covering designs improving the best known sizes",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "Sitjar, Théo Nicolas",
+   "orcid": "0009-0002-6728-0169",
+   "affiliation": "Independent researcher"
+  }
+ ],
+ "description": "<p>Explicit covering designs improving the best known size listed by the Covering Repository. This version: a (89,8,3) covering design with 2606 blocks (previous best 2611, Bluskov and Sidorenko), covering all 113564 triples, obtained by post-optimisation of their design. Includes the program and a verification script.</p>",
+ "license": "cc-by-4.0",
+ "keywords": [
+  "covering designs",
+  "combinatorial designs"
+ ]
+}

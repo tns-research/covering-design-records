@@ -1,5 +1,7 @@
 # Covering design records
 
+Archive: [doi:10.5281/zenodo.23842216](https://doi.org/10.5281/zenodo.23842216) (all versions).
+
 Explicit covering designs that improve the best known size listed by the [Covering Repository](https://www.coveringrepository.com). A (v,k,t) covering design is a family of k-subsets (blocks) of a v-set such that every t-subset lies in at least one block.
 
 | Parameters (v,k,t) | Previous best | New size | File |
